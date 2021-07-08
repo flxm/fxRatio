@@ -3,9 +3,6 @@
 
 const { ratio, nice } = require('./fxratio');
 
-// console.log(require("./fxratio"))
-
-
 var assert = require('assert');
 describe('Array', function() {
     describe('#indexOf()', function() {
