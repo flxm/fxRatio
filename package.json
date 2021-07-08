@@ -1,0 +1,16 @@
+{
+  "name": "fxratio",
+  "version": "0.2.0",
+  "description": "",
+  "main": "fxratio.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "FeLIX",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
