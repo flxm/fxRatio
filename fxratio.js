@@ -32,5 +32,3 @@ function nice(a, b) {
 
 module.exports = { ratio, nice }
 
-// exports.fxratio = fxratio
-// exports.nice = nice
